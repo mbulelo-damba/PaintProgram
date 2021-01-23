@@ -1,0 +1,10 @@
+C:\Users\eGrowth\source\repos\PaintProgram\bin\Debug\PaintProgram.exe.config
+C:\Users\eGrowth\source\repos\PaintProgram\bin\Debug\PaintProgram.exe
+C:\Users\eGrowth\source\repos\PaintProgram\bin\Debug\PaintProgram.pdb
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.csprojAssemblyReference.cache
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.Form1.resources
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.Properties.Resources.resources
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.csproj.GenerateResource.cache
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.csproj.CoreCompileInputs.cache
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.exe
+C:\Users\eGrowth\source\repos\PaintProgram\obj\Debug\PaintProgram.pdb
